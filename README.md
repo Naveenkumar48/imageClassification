@@ -59,7 +59,9 @@ The model is trained over **5 epochs** on the Kaggle "Dogs vs Cats" dataset.
 - **Validation Accuracy:** ~80%
 
 ### Loss and Accuracy Graphs:
+   Accuracy
 ![Accuracy](Accuracy_output.png)
+   Loss
 ![Loss](Loss_output.png)
 
 
