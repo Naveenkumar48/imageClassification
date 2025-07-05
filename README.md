@@ -49,7 +49,6 @@ This project demonstrates an end-to-end workflow of:
 - Kaggle API
 - Jupyter Notebook / Google Colab
 
----
 
 ## 📈 Training & Evaluation
 
@@ -60,9 +59,7 @@ The model is trained over **5 epochs** on the Kaggle "Dogs vs Cats" dataset.
 - **Validation Accuracy:** ~80%
 
 ### Loss and Accuracy Graphs:
-![Sample Loss and Accuracy](sample_output.png)
-
----
+![Sample Loss and Accuracy](Accuracy_output.png,Loss_output.png)
 
 ## 🖼️ Example Prediction
 
